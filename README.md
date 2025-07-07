@@ -1,0 +1,2 @@
+# whisperLocalFREE
+TRANCREVER AUDIOS FREE
