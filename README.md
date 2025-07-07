@@ -87,4 +87,4 @@ whisper-transcricao/
 
 ## Autor
 
-Criado por Thiago Russi para uso pessoal e profissional com foco em transcrição local e segura.
+Criado por Thiago Russi
